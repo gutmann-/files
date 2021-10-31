@@ -3,12 +3,14 @@
     {
       "id": 1,
       "name": "meme1",
-      "description": "meme1 description"
+      "description": "meme1 description",
+      "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg"
     },
     {
       "id": 2,
       "name": "meme2",
-      "description": "meme2 description"
+      "description": "meme2 description",
+      "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg"
     }
   ]
 }
