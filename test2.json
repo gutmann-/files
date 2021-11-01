@@ -9,57 +9,71 @@
     },
     {
       "id": 2,
-      "name": "meme2",
-      "description": "meme2 description",
+      "name": "Nyan Cat",
+      "description": "Визуально-музыкальный мем Ютуба, пример переделки творчества японских друзей. Также известен как Pop Tart Cat в забугорных интернетах; у нас это кот-тост или кот-печенька.",
       "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg",
       "rating": 2
     },
     {
       "id": 3,
-      "name": "meme2",
-      "description": "meme2 description",
+      "name": "Кот Саймона",
+      "description": "Серия короткометражных добромультиков британца Саймона Тофилда, нарисованных в Adobe Flash. В них вечно голодный пучеглазый котэ с садистским удовольствием доводит своего хозяина до белого каления, требуя к себе внимания.",
       "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg",
       "rating": 2
     },
     {
       "id": 4,
-      "name": "meme2",
-      "description": "meme2 description",
+      "name": "Кот Шрёдингера",
+      "description": "Физико-математический мем. Эксперимент с помещением кота в газенваген придуман Эрвином Шрёдингером, чтобы показать, что квантовая механика — penis canina и что при распространении её на макросистемы (объекты размером с кота, скажем) возникают непредвиденные проблемы.",
       "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg",
       "rating": 2
     },
     {
       "id": 5,
-      "name": "meme2",
-      "description": "meme2 description",
+      "name": "Doge",
+      "description": "Doge (рус. пёсе, также известный в Рунете как Пёсенька, Пёс-пончик и Собакен) — он же доге, мем интернета. Картинки и видео с прижабленной фотографией собаки породы Сиба-ину по кличке Кабосу и краткими английскими комментариями, выражающими эмоции от увиденного шрифтом с пляшущими буковками.",
       "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg",
       "rating": 2
     },
     {
       "id": 6,
-      "name": "meme2",
-      "description": "meme2 description",
+      "name": "Пепе",
+      "description": "Пепе (англ. Pepe the Frog, он же Feels good man, он же Sad Frog, он же Smug Pepe) — лягушонок, а точнее, целое семейство пучеглазых антропоморфных лягушек, подразделяющееся на множество (ибо разных годов рисовки) родов, видов и переходных таксономических звеньев. Наделён человеческими качествами и способен выражать туеву хучу оттенков и сортов эмоциональных состояний.",
       "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg",
       "rating": 2
     },
     {
       "id": 7,
-      "name": "meme2",
-      "description": "meme2 description",
+      "name": "Слоупок",
+      "description": "Слоупок — это уникальный случай рекурсивного мема: словом «слоупок», и без того за стопицот лет до использовавшимся янки со смыслом «тормоз», был назван тупой и медлительный покемон; покемон оказался достаточно меметичным для того, чтобы его имя стало нарицательным; имя стало использоваться в качестве замены слову «тормоз». Explode your brainz.",
       "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg",
       "rating": 2
     },
     {
       "id": 8,
       "name": "meme2",
-      "description": "meme2 description",
+      "description": "Эдуард Хиль (Edward Hill, Mr.Trololo, Trololo Guy, Creepy Russian Singer, Russian/Communist Rick Roll, Russian Rapist) — советский эстрадный певец, весьма популярный в 60—70 годах прошлого века в СССР. ВНЕЗАПНО проснулся вновь знаменитым в марте 2010 года, благодаря успешному форсингу ролика с его номером «Я очень рад, ведь я наконец возвращаюсь домой».",
       "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg",
       "rating": 2
     },
     {
       "id": 9,
-      "name": "meme2",
-      "description": "meme2 description",
+      "name": "Octocat",
+      "description": "Octocat (октокот, осьмикот; яп. タコ猫 тако нэко) — персонаж серии мультиков Octocat Adventure за авторством Рэнди Питерса (псевдоним Дэвида О’Рейлли), опубликованных на YouTube. Достаточно низкого уровня анимационная короткометражка рассказывала о путешествиях круглого красного кота с восемью (в первом мультике количество варьировалось) лапо-тентаклями, который искал своих родителей.",
+      "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg",
+      "rating": 2
+    },
+    {
+      "id": 10,
+      "name": "Octocat",
+      "description": "Octocat (октокот, осьмикот; яп. タコ猫 тако нэко) — персонаж серии мультиков Octocat Adventure за авторством Рэнди Питерса (псевдоним Дэвида О’Рейлли), опубликованных на YouTube. Достаточно низкого уровня анимационная короткометражка рассказывала о путешествиях круглого красного кота с восемью (в первом мультике количество варьировалось) лапо-тентаклями, который искал своих родителей.",
+      "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg",
+      "rating": 2
+    },
+    {
+      "id": 11,
+      "name": "Hide The Pain Harold",
+      "description": "Hide The Pain Harold (рус. Гарольд, скрывающий боль, просто Гарольд, реже Морис) — модель множества стоковых фото из банков, чья лицевая экспрессия просто фонит сдерживаемой болью/дискомфортом: есть мнение, что это стабильная 6 по 10-бальной шкале. В интернетах же используется при необходимости как-то отреагировать, а также в формате макро.",
       "image_url": "https://raw.githubusercontent.com/gutmann-/files/main/1.jpg",
       "rating": 2
     }
